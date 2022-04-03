@@ -49,10 +49,10 @@ async def typewriter(typew):
     await typew.edit("**𝐙𝐔𝐙𝐔 𝐂𝐀𝐍𝐓𝐈𝐊𝐒 𝐊𝐄𝐊 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒𝐒**")
 
 
-@register(outgoing=True, pattern='^.raa(?: |$)(.*)')
+@register(outgoing=True, pattern='^.btg(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**𝐎𝐔𝐑𝐀 𝐆𝐀𝐍𝐓𝐄𝐍𝐆 𝐆𝐀𝐃𝐀 𝐎𝐁𝐀𝐓🔥**")
+    await typew.edit("**𝗕𝗜𝗡𝗧𝗔𝗡𝗚 𝗚𝗔𝗗𝗜𝗘𝗦 𝗦𝗨𝗟𝗔𝗪𝗘𝗦𝗜 😎🙏**")
 
 
 @register(outgoing=True, pattern='^.dinn(?: |$)(.*)')
@@ -245,8 +245,8 @@ CMD_HELP.update({
 \nUsage: Punya What.\
 \n\n.zuzu\
 \nUsage: Punya Zuzu.\
-\n\n.raa\
-\nUsage: Punya Ouraa.\
+\n\n.btg\
+\nUsage: Punya Bintang.\
 \n\n.dinn\
 \nUsage: Punya Dino.\
 \n\n.mput\
