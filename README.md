@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝗠𝗜𝗡𝗜𝗠𝗔𝗟 𝗞𝗔𝗟𝗢 𝗙𝗢𝗥𝗞/𝗖𝗟𝗢𝗡𝗘/𝗖𝗢𝗣𝗔𝗦 𝗠𝗢𝗗𝗨𝗟𝗘 𝗞𝗔𝗦𝗜𝗛 𝗕𝗜𝗡𝗧𝗔𝗡𝗚 𝗚𝗢𝗕𝗟𝗢𝗚!!<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝓢𝓪𝓵𝔀𝓪 𝓒𝓪𝓷𝓽𝓲𝓴<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
 
 <p align="center">
     <a href="https://github.com/Oura-Ubot/Ouraaa-Userbot/commits/Ouraaa-Userbot"><img src="https://img.shields.io/github/last-commit/Oura-Ubot/Ouraaa-Userbot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/cb787d78795d6e6a29530.jpg">
+  <img src="https://telegra.ph/file/a8364fa864310d5ffa745.jpg">
 </p>
 
 
