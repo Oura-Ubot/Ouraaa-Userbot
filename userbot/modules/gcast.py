@@ -4,9 +4,10 @@ from userbot import CMD_HELP, bot
 GCAST_BLACKLIST = [
     -1001743853750,  # Cariteman
     -1001704645461,  # Bdrl
-    -1001473548283,  #sharing
-    -1001217578068,  #ouraa
-    -1001675396283,  #ayinnn
+    -1001473548283,  # sharing
+    -1001217578068,  # ouraa
+    -1001675396283,  # ayinnn
+    -1001790258874,  # Kontol
 ] 
 
 # Kalo fork atau coppy blacklist jangan dihapus bangsat,
