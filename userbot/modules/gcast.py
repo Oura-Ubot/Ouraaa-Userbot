@@ -7,7 +7,7 @@ GCAST_BLACKLIST = [
     -1001473548283,  # sharing
     -1001217578068,  # ouraa
     -1001675396283,  # ayinnn
-    -1001790258874,  # Kontol
+    -1001790258874,  # Oura
 ] 
 
 # Kalo fork atau coppy blacklist jangan dihapus bangsat,
